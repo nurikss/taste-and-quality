@@ -1,0 +1,32 @@
+.boss{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    justify-content: space-around;
+    .buyBtn{
+      width: 100px;
+      height: 35px;
+      background-color: #7be937;
+      border-width: 1px;
+      border-radius: 2px;
+      z-index: 2;
+    }
+}
+
+button.default {
+    background: white;
+    width: 80px;
+    height: 80px;
+    font-size: 40pt;
+    transition: background 9999999s;
+  }
+
+  button.default:active {
+    background: red;
+    transition: background 0s;
+  }
+  .red{
+    background-color: red;
+  }
+  .green{
+    background-color: green;
+  }

@@ -1,0 +1,11 @@
+Заметки для работы с react-router-dom:
+1. Устанавливаем библиотеку react-router-dom (npm i react-router-dom)
+2. в файле index.js импортируем BrowserRouter
+3. обворачиваем компонент App в BrowserRouter
+4. в компоненте App импортируем Routes, Route
+5. Создаем Routes внутри него создаем Route
+6. В Route указываем path (путь или маршрут) и element (то что отображается по пути) 
+7. импортируем useNavigate. Создаем переменную const navigate = useNavigate()
+8. navigate("/") перенаправляет на главную страницу
+9. импортируем Link 
+10. <Link to ={"адрес"} > нажми сюда</Link>

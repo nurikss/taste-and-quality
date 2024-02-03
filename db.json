@@ -1,0 +1,230 @@
+{
+  "users": [
+    {
+      "login": "вфыавпа",
+      "password": "123456",
+      "email": "йуцкуекн@gmail.com",
+      "isAdmin": false,
+      "id": 1706867317261
+    },
+    {
+      "login": "asdasd",
+      "password": "asdasd",
+      "email": "nurislambaratov2@gmail.com",
+      "isAdmin": false,
+      "id": 1706867360378
+    }
+  ],
+  "basket": [
+    {
+      "title": "Лагман",
+      "price": "$2",
+      "goodId": 1705132667163,
+      "id": 1
+    },
+    {
+      "title": "Лагман",
+      "price": "$2",
+      "goodId": 1705132667163,
+      "id": 2
+    },
+    {
+      "title": "Лагман",
+      "price": "$2",
+      "goodId": 1705132667163,
+      "id": 3
+    },
+    {
+      "title": "Лагман",
+      "price": "$2",
+      "goodId": 1705132667163,
+      "id": 4
+    },
+    {
+      "title": "Самса и кудайберди",
+      "price": "$1.99",
+      "goodId": 1705137543386,
+      "id": 5
+    },
+    {
+      "title": "Самса и кудайберди",
+      "price": "$1.99",
+      "goodId": 1705137543386,
+      "id": 6
+    },
+    {
+      "title": "Самса и кудайберди",
+      "price": "$1.99",
+      "goodId": 1705137543386,
+      "id": 7
+    },
+    {
+      "title": "Самса ",
+      "price": "$1.99",
+      "goodId": 1705137543386,
+      "id": 8
+    },
+    {
+      "title": "Самса ",
+      "price": "$1.99",
+      "goodId": 1705137543386,
+      "id": 9
+    },
+    {
+      "title": "Самса ",
+      "price": "$1.99",
+      "goodId": 1705137543386,
+      "id": 10
+    },
+    {
+      "title": "Бургер",
+      "price": "$2.49",
+      "goodId": 1705132594162,
+      "id": 11
+    },
+    {
+      "title": "Бургер",
+      "price": "$2.49",
+      "goodId": 1705132594162,
+      "id": 12
+    },
+    {
+      "title": "Бургер",
+      "price": "$2.49",
+      "goodId": 1705132594162,
+      "id": 13
+    },
+    {
+      "title": "Лагман",
+      "price": "$2",
+      "goodId": 1705132667163,
+      "id": 14
+    },
+    {
+      "title": "Самса ",
+      "price": "$1.99",
+      "goodId": 1705137543386,
+      "id": 15
+    },
+    {
+      "title": "Пицца",
+      "price": "$3.99",
+      "goodId": 1706701208837,
+      "id": 16
+    },
+    {
+      "title": "Самса ",
+      "price": "$1.99",
+      "goodId": 1705137543386,
+      "id": 17
+    },
+    {
+      "title": "Пицца",
+      "price": "$3.99",
+      "goodId": 1706701208837,
+      "id": 18
+    },
+    {
+      "title": "Самса ",
+      "price": "$1.99",
+      "goodId": 1705137543386,
+      "id": 19
+    },
+    {
+      "title": "Самса ",
+      "price": "$1.99",
+      "goodId": 1705137543386,
+      "id": 20
+    },
+    {
+      "title": "Бургер",
+      "price": "$2.49",
+      "goodId": 1705132594162,
+      "id": 21
+    },
+    {
+      "title": "Самса ",
+      "price": "$1.99",
+      "goodId": 1705137543386,
+      "id": 22
+    },
+    {
+      "title": "Самса ",
+      "price": "$1.99",
+      "goodId": 1705137543386,
+      "id": 23
+    },
+    {
+      "title": "Самса ",
+      "price": "$1.99",
+      "goodId": 1705137543386,
+      "id": 24
+    },
+    {
+      "title": "Лагман",
+      "price": "$2",
+      "goodId": 1705132667163,
+      "id": 25
+    },
+    {
+      "title": "Пицца",
+      "price": "$3.99",
+      "goodId": 1706701208837,
+      "id": 26
+    },
+    {
+      "title": "Самса ",
+      "price": "$1.99",
+      "goodId": 1705137543386,
+      "id": 27
+    },
+    {
+      "title": "Пицца",
+      "price": "$3.99",
+      "goodId": 1706701208837,
+      "id": 28
+    },
+    {
+      "title": "Пицца",
+      "price": "$3.99",
+      "goodId": 1706701208837,
+      "id": 29
+    },
+    {
+      "title": "Лагман",
+      "price": "$2",
+      "goodId": 1705132667163,
+      "id": 30
+    }
+  ],
+  "food": [
+    {
+      "title": "Бургер",
+      "desc": "Вкусно очень",
+      "img": "https://s1.eda.ru/StaticContent/Photos/121124234750/131219150003/p_O.jpg",
+      "price": "$2.49",
+      "id": 1705132594162
+    },
+    {
+      "title": "Лагман",
+      "desc": "тоже вкусно вкусно",
+      "img": "https://cdn.lifehacker.ru/wp-content/uploads/2018/07/shutterstock_1937651824_1650492351-scaled-e1650492384721-630x315.jpeg",
+      "price": "$2",
+      "id": 1705132667163
+    },
+    {
+      "title": "Самса ",
+      "desc": "вкусно",
+      "img": "https://i.obozrevatel.com/food/recipemain/2019/2/11/samsa-iz-sloenogo-testa-samsa-iz-sloenogo-testa-v-duxovke14903002671ma.jpg?size=636x424",
+      "price": "$1.99",
+      "id": 1705137543386
+    },
+    {
+      "title": "Пицца",
+      "desc": "цуйакпиапт",
+      "img": "https://momentopizza.ru/images/vid-pizza.jpg",
+      "price": "$3.99",
+      "id": 1706701208837
+    }
+  ]
+}

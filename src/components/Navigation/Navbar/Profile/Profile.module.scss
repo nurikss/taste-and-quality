@@ -1,0 +1,16 @@
+.prof_div{
+    display: flex;
+    img{
+        width: 200px;
+    }
+    h2{
+        font-size: 24px;
+    }
+    ul{
+        li{
+            .basket{
+                font-size: 24px;
+            }
+        }
+    }
+}
